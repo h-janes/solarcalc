@@ -5,7 +5,7 @@ A web app for accurately calculating solar panel output (accounting for weather/
 
 The user shall provide the following information to the app:
 * Location and elevation (can be accessed programmatically via GPS).
-* Solar panel quantity and wattage (the app will assume flat-mounted panels).
+* Solar array total wattage (the app will assume flat-mounted panels).
 * Height of solar panels above ground level (van height).
 * Battery capacity.
 * Expected power usage information (users provide a list of devices, their wattages, and the times they will be in use).
