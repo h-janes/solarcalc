@@ -1,7 +1,7 @@
 # SolarCalc
 **Working on this app now - far from complete**
 
-A web app for accurately calculating solar panel output (accounting for weather/conditions) and battery charge level. This app is primarily designed for "vanlife" applications, i.e. for calculating charge information for solar panels fitted flat to the roof of a campervan which may be travelling. However, it may also be of use for domestic and commercial purposes.
+A web app for accurately calculating solar panel output (accounting for weather/conditions) and battery charge level. This app is primarily designed for "vanlife" applications, i.e. for calculating charge information for solar panels flat-mounted to the roof of a campervan which may be travelling to various locations. However, it may also be of use for domestic and commercial purposes.
 
 The user shall provide the following information to the app:
 * Location and elevation (can be accessed automatically via GPS).
